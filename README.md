@@ -11,7 +11,7 @@
   </p>
 <hr>
 
-<h2>📍 Access the Site <a href=https://affectionate-kare-6c5df5.netlify.app/">here!</a></h2>
+<h2>📍 Access the Site <a href=https://affectionate-kare-6c5df5.netlify.app>here!</a></h2>
 
 <hr>
 
